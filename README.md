@@ -71,15 +71,13 @@ Pragma
 This contract is written for Solidity version 0.8.18.
 solidity
 
-Author
-Github:-https://github.com/Shishir098
-Email:-shishirgautam12345@gmail.com
-
 pragma solidity ^0.8.18;
 License
 This project is licensed under the MIT License.
 
-
+### Author
+Github:-https://github.com/Shishir098
+Email:-shishirgautam12345@gmail.com
 
 
 
